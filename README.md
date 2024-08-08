@@ -3,6 +3,7 @@
 This repository contains a React Native project called NewsAppAPI, which demonstrates the use of APIs in mobile app development. It's designed to help new developers understand how APIs can be integrated into mobile applications for dynamic data retrieval and interaction.
 
 [➡️View final result using Android or iOS⬅️](https://snack.expo.dev/@presidentkennedy/react-native-news-app-api-practice)
+
 ![Screenshot](https://github.com/BennyWaitWhat/News-App-API-Example/blob/main/Screen%20Shot.png)
 
 ## Learnings
